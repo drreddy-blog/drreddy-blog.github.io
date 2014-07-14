@@ -19,7 +19,6 @@ author:
 paginate:         2
 
 # Custom vars
-version:          0.0.1
 
 github:
   repo:           https://github.com/drreddy/drreddy.github.io
