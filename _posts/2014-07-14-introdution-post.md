@@ -8,10 +8,10 @@ title: Introduction
   Hi guys! This is Rajeev, a fellow geek and welcome to my blog. This will be a place where I shall write posts regarding my adventures with things related to web. 
 </div>
 
-> ##Disclaimer:
+> ###Disclaimer:
    This is my first writing any blogs and posts. This shit is new to me so keep this in mind while reading. I will try to keep my posts bug free and any way all suggestions from you readers are welcome
 
-##Before going any further, First let me answer some questions
+####Before going any further, First let me answer some questions
 
 <dl>
   <dt>1. Who am I </dt>
