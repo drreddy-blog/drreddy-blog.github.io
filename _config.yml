@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            SkunkWorks
 tagline:          'My experiments with all things web'
-description:      'This blog will let me tell u guys what and how each of my project is done. Developed with <a href = "http://jekyllrb.com/" target="_blank">Jekyll</a>, <a href = "http://demo.getpoole.com/" target="_blank">Poole</a> and Powered by <a href="https://github.com" target="_blank">Github</a>. Made with <b>Geekiness</b> & <b>Nerdyness</b> by your fellow geek <a href="http://rajeev-reddy.com" target="_blank">Rajeev Reddy</a>'
+description:      'This blog will let me rant with you guys about my experiments with various tech. Developed with <a href = "http://jekyllrb.com/" target="_blank">Jekyll</a>, <a href = "http://demo.getpoole.com/" target="_blank">Poole</a> and Powered by <a href="https://github.com" target="_blank">Github</a>. Made with all the <b>Geekiness</b> & <b>Nerdyness</b> by your fellow geek <a href="http://rajeev-reddy.com" target="_blank">Rajeev Reddy</a>'
 url:              http://blog.rajeev-reddy.com/
 baseurl:          /
 
